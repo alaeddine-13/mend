@@ -5,7 +5,8 @@ torch
 click
 spacy
 allennlp
-git+https://github.com/eric-mitchell/higher@master # For in-place functional models
+# git+https://github.com/eric-mitchell/higher@master # For in-place functional models
+higher
 git+https://github.com/alaeddine-13/transformers@main # To enable gradient disabling for some models with latest transformers
 datasets
 jsonlines
