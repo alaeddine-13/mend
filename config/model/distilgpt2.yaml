@@ -1,4 +1,4 @@
-name: MYX4567/distilgpt2-finetuned-wikitext2
+name: distilgpt2
 class_name: GPT2LMHeadModel
 tokenizer_class: GPT2TokenizerFast
 tokenizer_name: distilgpt2
